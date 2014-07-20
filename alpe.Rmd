@@ -1,0 +1,80 @@
+# Agile Learning Problem Elicitation (ALPE) framework: Educational technology and N-of-1 reproducible trial among physicians
+
+Guilherme Isaac Schreiber Litwinski  
+Guilherme Cunha  
+João Ricardo Vissoci  
+Bruno Melo  
+Ricardo Pietrobon
+
+## Abstract
+
+## Introduction
+
+Despite its best intentions, Healthcare Learning Technologies have been plagued by solutions that address either (1) what educators think it is important for healthcare professionals to learn or (2) what technologists are able to deliver. In contrast with these top approaches, technologies should be delivered with a focus on solving real problems from healthcare professionals. To our knowledge, however, no previous comprehensive framework has been described to date addressing this need.
+
+* Learning problem elicitation methods among healthcare professionals
+* Agile and its focus on stakeholders through iterative cycles
+
+The objective of this study is therefore to describe an implementation of the Agile Learning Problem Elicitation (ALPE) framework, specifically describing its process, technology, analysis and reporting among neurologists. A further description is provided on how this framework could be coupled with N-of-1 trials to validate learning technologies that might address the problems emerging from ALPE.
+
+
+## Methods
+
+
+### Participants
+
+* Two physicians (GIL, GC)
+* recording voice recorded notes about learning needs, e.g., "would like to know what differential diagnosis is", "what are alternative drugs for condiction X"
+* recordings did not contain any information about specific patients
+* participants encouraged to take voice recording note at the very moment when needs arose
+
+
+
+### Data capture
+
+* [NetMemo Plus Voice Recorder](https://play.google.com/store/apps/details?id=com.netify.netmemopro&hl=en)
+    * recorded at the time the need arose
+* Brief outline at night
+    * listen to notes taken during the day
+    * forward to analyst (RP) along with any additional notes regarding insights, additional comments, or anything that could bring additional depth to the voice recorded note
+
+### Iterative transcript analysis and reporting
+* transcript analysis using [RQDA](http://rqda.r-forge.r-project.org/) 
+* nightly reporting with Rmd file 
+* feedback reporting tool
+    * [Django](https://www.djangoproject.com/) framework
+    * [Cerely](http://www.celeryproject.org/) task queueing
+* weekly meeting with subject until reaches emergence saturation
+
+<!-- feedback reporting tool is being developed, tests start on Tue -->
+
+### N-of-1 trial
+
+<!-- 
+
+use reporting standard described in our N-of-1 arXiv paper
+2 subjects with 10 repetitions each, bring two together through a meta-analysis
+interventions is isolated daily diary vs. ALPE framework method to elicit 
+
+ -->
+
+
+### Reproducible Research protocol
+
+<!-- grab from previous sections -->
+
+* data
+* scripts
+* [Rmd](https://github.com/rstudio/rmarkdown)
+* software
+
+## Results
+
+RQDA tables and graphics
+
+## Discussion
+
+* integration with N-of-1 trials
+    * [AHRQ, 2014](http://effectivehealthcare.ahrq.gov/ehc/products/534/1844/n-1-trials-report-130213.pdf) 
+    * [Personalized Lifelong Learning Consortium, 2014]() arXiv paper
+    * Open edX and randomization framework Jacinto

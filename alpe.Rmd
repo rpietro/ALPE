@@ -27,7 +27,7 @@ The objective of this study is therefore to describe an implementation of the Ag
 ### Participants
 
 * Two physicians (GIL, GC)
-* recording voice recorded notes about learning needs, e.g., "would like to know what differential diagnosis is", "what are alternative drugs for condiction X"
+* recording voice recorded notes about learning needs, e.g., "would like to know what differential diagnosis is", "what are alternative drugs for condition X"
 * recordings did not contain any information about specific patients
 * participants encouraged to take voice recording note at the very moment when needs arose
 
@@ -43,6 +43,7 @@ The objective of this study is therefore to describe an implementation of the Ag
 
 ### Iterative transcript analysis and reporting
 * transcript analysis using [RQDA](http://rqda.r-forge.r-project.org/) 
+<!-- https://www.youtube.com/playlist?list=PL66CB2FF65368715C&feature=plcp -->
 * nightly reporting with Rmd file 
 * feedback reporting tool
     * [Django](https://www.djangoproject.com/) framework

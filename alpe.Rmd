@@ -9,6 +9,9 @@ Ricardo Pietrobon
 
 
 <!--
+
+communicate through wechat??? http://dev.wechat.com/wechatapi
+incentive through the use of information from previous questions, even if repeated??
 json
 key taxonomy
 copyright issues vs present info from page

@@ -5,7 +5,7 @@
       "date" : "2014-07-20",
       "time" : "11:50 PM Eastern Daylight Time"
     },
-    "transcription" : "Como administrar o tempo psa",
+    "transcription" : "Como administrar o tempo",
     "classification" : {
       "soft_skills" : "time management"
     },
@@ -73,12 +73,12 @@
       "time" : "7:14:59 PM Eastern Daylight Time"
     },
     "transcription" : "controle da FA de alta resposta com desanosidio",
-    "terminology problem" : 1,
+    "terminology problem" : [1,"Deslanosídeo"],
     "classification" : {
       "treatment" : "Clinical Practice Guideline"
     },
     "link" : "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0066-782X2003002000002",
-    "full_text" : "Classe I - 1) CVE imediata nos casos de FA com alta resposta ventricular, associados a IAM e angina ou com instabilidade hemodinâmica importante (edema agudo de pulmão, choque, IC descompensada, hipotensão grave), que não respondam prontamente a manobras farmacológicas (NE=D); 2) CVE em pacientes com FA sem instabilidade hemodinâmica, porém altamente sintomáticos (NE=C)."
+    "full_text" : ["Classe I - 1) CVE imediata nos casos de FA com alta resposta ventricular, associados a IAM e angina ou com instabilidade hemodinâmica importante (edema agudo de pulmão, choque, IC descompensada, hipotensão grave), que não respondam prontamente a manobras farmacológicas (NE=D); 2) CVE em pacientes com FA sem instabilidade hemodinâmica, porém altamente sintomáticos (NE=C).", "nao existem artigos sobre o uso de deslanosideo (Deslanoside) desde os anos 90"]
   },
   {
     "participant" : "Isaac",

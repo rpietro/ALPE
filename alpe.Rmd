@@ -7,6 +7,17 @@ Bruno Melo
 Ricardo Pietrobon
 
 
+
+<!--
+json
+key taxonomy
+copyright issues vs present info from page
+databases for most common topics
+present links
+infographics
+useful even if not complete answer?
+ -->
+
 <!-- http://transag.sourceforge.net/ -->
 
 ## Abstract

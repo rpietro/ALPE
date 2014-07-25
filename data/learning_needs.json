@@ -1,0 +1,99 @@
+[
+  {
+    "participant" : "Isaac",
+    "time_stamp" : {
+      "date" : "2014-07-20",
+      "time" : "11:50 PM Eastern Daylight Time"
+    },
+    "transcription" : "Como administrar o tempo psa",
+    "classification" : {
+      "soft_skills" : "time management"
+    },
+    "response" : {
+      "source" : "infographic",
+      "link" : "http://healthhut.ua.edu/files/2012/05/Time-Management-Tips.jpg"
+    }
+  },
+  {
+    "participant" : "Cunha",
+    "time_stamp" : {
+      "date" : "2014-07-24",
+      "time" : "10:05:08 AM Eastern Daylight Time"
+    },
+    "transcription" : "paciente com 22 anos, com história de abuso de anabolisante, evoluiu com quadro de dor abdominal, e aumento de transminase, amilase e lipase, e uma história de dor em flanco. Foi feita a suspensão do uso dos anabolisantes e ele evoluiu com um quadro de pancreatite e um aumento de creatinina, creatinina de 3, e no ritmo de filtração glomerular feito tá com um ritmo de filtração glomerular estágio 4. Então tava querendo saber é possíveis diagnósticos diferencias dessa nefropatia que ele evoluiu.",
+    "classification" : {
+      "diagnosis" : "clinical case"
+    },
+    "response" : {
+      "source" : "pubmed",
+      "link" : "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2799287/",
+      "full_text" : "Development of focal segmental glomerulosclerosis after anabolic steroid abuse. Herlitz LC(1), Markowitz GS, Farris AB, Schwimmer JA, Stokes MB, Kunis C, Colvin RB, D'Agati VD. Anabolic steroid abuse adversely affects the endocrine system, blood lipids, and the liver, but renal injury has not been described. We identified an association of focal segmental glomerulosclerosis (FSGS) an proteinuria in a cohort of 10 bodybuilders (six white and four Hispanic; mean body mass index 34.7) after long-term abuse of anabolic steroids. The clinical presentation included proteinuria (mean 10.1 g/d; range 1.3 to 26.3 g/d) and renal insufficiency (mean serum creatinine 3.0 mg/dl; range 1.3 to 7.8 mg/dl); three (30%) patients presented with nephrotic syndrome. Renal biopsy revealed FSGS in nine patients, four of whom also had glomerulomegaly, and glomerulomegaly alone in one patient. Three biopsies revealed collapsing lesions of FSGS, four had perihilar lesions, and seven showed > or =40% tubular atrophy and interstitial fibrosis. Among eight patients with mean follow-up of 2.2 yr, one progressed to ESRD, the other seven received renin-angiotensin system blockade, and one also received corticosteroids. All seven patients discontinued anabolic steroids, leading to weight loss, stabilization or improvement in serum creatinine, and a reduction in proteinuria. One patient resumed anabolic steroid abuse and suffered relapse of proteinuria and renal insufficiency. We hypothesize that secondary FSGS results from a combination of postadaptive glomerular changes driven by increased lean body mass and potential direct nephrotoxic effects of anabolic steroids. Because of the expected rise in serum creatinine as a result of increased muscle mass in bodybuilders, this complication is likely underrecognized."
+    }
+  },
+  {
+    "participant" : "Isaac",
+    "time_stamp" : {
+      "date" : "2014-07-22",
+      "time" : "6:48:16 AM Eastern Daylight Time"
+    },
+    "transcription" : "Saber contraindicações do uso da fenitoina",
+    "classification" : {
+      "treatment" : "drug indications"
+    },
+    "link" : "http://www.drugs.com/sfx/phenytoin-side-effects.html"
+  },
+  {
+    "participant" : "Isaac",
+    "time_stamp" : {
+      "date" : "2014-07-24",
+      "time" : "6:49:40 AM Eastern Daylight Time"
+    },
+    "transcription" : "Aprender detalhes de exame de imagem na hemorragia subaracnoidea",
+    "classification" : {
+      "diagnosis" : "imaging"
+    },
+    "link" : "http://emedicine.medscape.com/article/344342-overview"
+  },
+  {
+    "participant" : "Isaac",
+    "time_stamp" : {
+      "date" : "2014-07-24",
+      "time" : "1:20:10 PM Eastern Daylight Time"
+    },
+    "transcription" : "como fazer apresentações e aulas se tornarem mais interessantes",
+    "classification" : {
+      "soft_skills" : "presentation"
+    },
+    "link" : "http://www.slideshare.net/wrttnwrd/30-tips-for-awesome-presentations"
+  },
+  {
+    "participant" : "Isaac",
+    "time_stamp" : {
+      "date" : "2014-07-24",
+      "time" : "7:14:59 PM Eastern Daylight Time"
+    },
+    "transcription" : "controle da FA de alta resposta com desanosidio",
+    "terminology problem" : 1,
+    "classification" : {
+      "treatment" : "Clinical Practice Guideline"
+    },
+    "link" : "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0066-782X2003002000002",
+    "full_text" : "Classe I - 1) CVE imediata nos casos de FA com alta resposta ventricular, associados a IAM e angina ou com instabilidade hemodinâmica importante (edema agudo de pulmão, choque, IC descompensada, hipotensão grave), que não respondam prontamente a manobras farmacológicas (NE=D); 2) CVE em pacientes com FA sem instabilidade hemodinâmica, porém altamente sintomáticos (NE=C)."
+  },
+  {
+    "participant" : "Isaac",
+    "time_stamp" : {
+      "date" : "2014-07-24",
+      "time" : "6:38:17 AM Eastern Daylight Time"
+    },
+    "transcription" : "uso do propofol como anticonvulsivante",
+    "classification" : {
+      "treatment" : "Clinical Practice Guideline"
+    },
+    "full_text" : [
+      "Propofol At the time of publication, propofol did not have UK marketing authorisation for status epilepticus but had authorisation for anaesthesia and sedation. Diprivan 2%, Propofol-Lipuro 2%, and Propoven 2% were not licensed for use in children younger than 3 years; Diprofusor TCI ('target controlled infusion') system was not licensed for use in children (BNFC).",
+      "Recommendations specific for adults Administer intravenous midazolam, propofol or thiopental sodium to treat adults with refractory convulsive status epilepticus. Adequate monitoring, including blood levels of AEDs, and critical life systems support are required. See also the suggested protocols in appendix F of the epilepsy NICE guideline."
+    ],
+    "link" : "http://pathways.nice.org.uk/pathways/epilepsy?fno=1"
+  }
+]

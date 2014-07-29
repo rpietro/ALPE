@@ -95,5 +95,18 @@
       "Recommendations specific for adults Administer intravenous midazolam, propofol or thiopental sodium to treat adults with refractory convulsive status epilepticus. Adequate monitoring, including blood levels of AEDs, and critical life systems support are required. See also the suggested protocols in appendix F of the epilepsy NICE guideline."
     ],
     "link" : "http://pathways.nice.org.uk/pathways/epilepsy?fno=1"
+  },
+  {
+    "participant" : "Isaac",
+    "time_stamp" : {
+      "date" : "2014-07-25",
+      "time" : "3:58:17 AM Eastern Daylight Time"
+    },
+    "transcription" : "indicação de punção lombar em pneumo-encéfalo por trauma",
+    "classification" : {
+      "treatment" : "Clinical Practice Guideline"
+    },
+    "full_text" : "Injuries associated with a pneumatocele or a single intracranial air bubble have a good prognosis, as do frontobasal lesions. Injuries associated with multiple air bubbles have a bad prognosis. Intracranial air was a sign of a frontobasal or laterobasal fracture. In cases with a depressed skull fracture, extracerebral haematoma or pneumocephalus acting as a space occupying lesion, an operation should be performed as soon as possible. If associated with a persistent rhinorrhea the CSF-fistula should be operated according to the generally accepted rules 13. In other post-traumatic cases intracranial air may be disregarded, although its presence may influence the choice of treatment. ",
+    "link" : "http://download.springer.com/static/pdf/555/art%253A10.1007%252FBF01812281.pdf?auth66=1406491996_689bf796ac0bff54e9aa69ca3daf4199&ext=.pdf"
   }
 ]

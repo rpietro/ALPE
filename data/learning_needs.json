@@ -3,7 +3,7 @@
     "participant" : "Isaac",
     "time_stamp" : {
       "date" : "2014-07-20",
-      "time" : "11:50 PM Eastern Daylight Time"
+      "time" : "11:50 PM EDT"
     },
     "transcription" : "Como administrar o tempo",
     "classification" : {
@@ -18,9 +18,9 @@
     "participant" : "Cunha",
     "time_stamp" : {
       "date" : "2014-07-24",
-      "time" : "10:05:08 AM Eastern Daylight Time"
+      "time" : "10:05:08 AM EDT"
     },
-    "transcription" : "paciente com 22 anos, com história de abuso de anabolisante, evoluiu com quadro de dor abdominal, e aumento de transminase, amilase e lipase, e uma história de dor em flanco. Foi feita a suspensão do uso dos anabolisantes e ele evoluiu com um quadro de pancreatite e um aumento de creatinina, creatinina de 3, e no ritmo de filtração glomerular feito tá com um ritmo de filtração glomerular estágio 4. Então tava querendo saber é possíveis diagnósticos diferencias dessa nefropatia que ele evoluiu.",
+    "transcription" : "paciente com 22 anos, com história de abuso de anabolisante, evoluiu com quadro de dor abdominal, e aumento de transminase, amilase e lipase, e uma história de dor em flanco. Foi feita a suspensão do uso dos anabolisantes e ele evoluiu com um quadro de pancreatite e um aumento de creatinina, creatinina de 3, e no ritmo de filtração glomerular feito tá com um ritmo de filtração glomerular estágio 4. Então tava querendo saber é possíveis diagnósticos diferenciais dessa nefropatia que ele evoluiu.",
     "classification" : {
       "diagnosis" : "clinical case"
     },
@@ -34,7 +34,7 @@
     "participant" : "Isaac",
     "time_stamp" : {
       "date" : "2014-07-22",
-      "time" : "6:48:16 AM Eastern Daylight Time"
+      "time" : "6:48:16 AM EDT"
     },
     "transcription" : "Saber contraindicações do uso da fenitoina",
     "classification" : {
@@ -46,7 +46,7 @@
     "participant" : "Isaac",
     "time_stamp" : {
       "date" : "2014-07-24",
-      "time" : "6:49:40 AM Eastern Daylight Time"
+      "time" : "6:49:40 AM EDT"
     },
     "transcription" : "Aprender detalhes de exame de imagem na hemorragia subaracnoidea",
     "classification" : {
@@ -58,7 +58,7 @@
     "participant" : "Isaac",
     "time_stamp" : {
       "date" : "2014-07-24",
-      "time" : "1:20:10 PM Eastern Daylight Time"
+      "time" : "1:20:10 PM EDT"
     },
     "transcription" : "como fazer apresentações e aulas se tornarem mais interessantes",
     "classification" : {
@@ -70,21 +70,27 @@
     "participant" : "Isaac",
     "time_stamp" : {
       "date" : "2014-07-24",
-      "time" : "7:14:59 PM Eastern Daylight Time"
+      "time" : "7:14:59 PM EDT"
     },
     "transcription" : "controle da FA de alta resposta com desanosidio",
-    "terminology problem" : [1,"Deslanosídeo"],
+    "terminology problem" : [
+      1,
+      "Deslanosídeo"
+    ],
     "classification" : {
       "treatment" : "Clinical Practice Guideline"
     },
     "link" : "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0066-782X2003002000002",
-    "full_text" : ["Classe I - 1) CVE imediata nos casos de FA com alta resposta ventricular, associados a IAM e angina ou com instabilidade hemodinâmica importante (edema agudo de pulmão, choque, IC descompensada, hipotensão grave), que não respondam prontamente a manobras farmacológicas (NE=D); 2) CVE em pacientes com FA sem instabilidade hemodinâmica, porém altamente sintomáticos (NE=C).", "nao existem artigos sobre o uso de deslanosideo (Deslanoside) desde os anos 90"]
+    "full_text" : [
+      "Classe I - 1) CVE imediata nos casos de FA com alta resposta ventricular, associados a IAM e angina ou com instabilidade hemodinâmica importante (edema agudo de pulmão, choque, IC descompensada, hipotensão grave), que não respondam prontamente a manobras farmacológicas (NE=D); 2) CVE em pacientes com FA sem instabilidade hemodinâmica, porém altamente sintomáticos (NE=C).",
+      "nao existem artigos sobre o uso de deslanosideo (Deslanoside) desde os anos 90"
+    ]
   },
   {
     "participant" : "Isaac",
     "time_stamp" : {
       "date" : "2014-07-24",
-      "time" : "6:38:17 AM Eastern Daylight Time"
+      "time" : "6:38:17 AM EDT"
     },
     "transcription" : "uso do propofol como anticonvulsivante",
     "classification" : {
@@ -100,7 +106,7 @@
     "participant" : "Isaac",
     "time_stamp" : {
       "date" : "2014-07-25",
-      "time" : "3:58:17 AM Eastern Daylight Time"
+      "time" : "3:58:17 AM EDT"
     },
     "transcription" : "indicação de punção lombar em pneumo-encéfalo por trauma",
     "classification" : {
@@ -108,5 +114,284 @@
     },
     "full_text" : "Injuries associated with a pneumatocele or a single intracranial air bubble have a good prognosis, as do frontobasal lesions. Injuries associated with multiple air bubbles have a bad prognosis. Intracranial air was a sign of a frontobasal or laterobasal fracture. In cases with a depressed skull fracture, extracerebral haematoma or pneumocephalus acting as a space occupying lesion, an operation should be performed as soon as possible. If associated with a persistent rhinorrhea the CSF-fistula should be operated according to the generally accepted rules 13. In other post-traumatic cases intracranial air may be disregarded, although its presence may influence the choice of treatment. ",
     "link" : "http://download.springer.com/static/pdf/555/art%253A10.1007%252FBF01812281.pdf?auth66=1406491996_689bf796ac0bff54e9aa69ca3daf4199&ext=.pdf"
+  },
+  {
+    "participant" : "Isaac",
+    "time_stamp" : {
+      "date" : "2014-07-31",
+      "time" : " 3:09:06 PM EDT"
+    },
+    "unclear_question" : "yes",
+    "transcription" : "indicação atual da lidocaína no controle da frequência cardíaca",
+    "classification" : {
+      "treatment" : "não é a sua pergunta, mas efeitos cardiovasculares incluem: Cardiovascular System: Cardiovascular reactions are usually depressant in nature and are characterized by bradycardia, hypotension and cardiovascular collapse, which may lead to cardiac arrest. Allergic reactions as a result of sensitivity to Lidocaine are extremely rare and, if they occur, should be managed by conventional means.",
+      "link" : "http://www.rxlist.com/xylocaine-drug/side-effects-interactions.htm"
+    }
+  },
+  {
+    "participant" : "Isaac",
+    "time_stamp" : {
+      "date" : "2014-08-03",
+      "time" : "11:05:28 AM EDT"
+    },
+    "transcription" : "diagnóstico diferencial do supra do segmento ST no eletro e entre o padrão strain",
+    "classification" : {
+      "soft_skills" : "",
+      "treatment": "article",
+      "diagnosis" : ""
+    },
+    "response" : {
+      "source" : "pubmed",
+      "link" : "http://emj.bmj.com/content/19/2/129.full",
+      "full_text": "Clarificação: você quer a diferença entre o strain e o supra ou as possibilidades diagnósticas para cada um deles? para strain:
+
+ST segment depression in the lateral leads (I, aVl, V5, and V6) is seen in approximately 70% of patients with electrocardiographic left ventricular hypertrophy; such a finding has been termed the “strain pattern.” While this finding may represent altered repolarisation attributable to the presence of  left ventricular hypertrophy, it may also be a manifestation of myocardial ischaemia. The clinical history as well as the results of other investigations will guide the doctor in determining the diagnosis and appropriate disposition.",
+    "figure": "6"
+    }
+  },
+  {
+    "participant" : "Isaac",
+    "time_stamp" : {
+      "date" : "2014-08-01",
+      "time" : "5:17:18 PM EDT"
+    },
+    "transcription" : "tempo do inicio de ação do antidepressivo escitalopram",
+    "classification" : {
+      "soft_skills" : "",
+      "treatment": "article",
+      "diagnosis" : ""
+    },
+    "response" : {
+      "source" : "pubmed",
+      "link" : " http://www.ncbi.nlm.nih.gov/pubmed/17076970",
+      "full_text" : "existe variação entre pacientes, de 1 a 8 semanas:
+
+The mean change in MADRS (Montgomery-Asberg Depression Rating Scale) total scores was significantly higher for escitalopram-treated patients than for patients treated with the comparators on day 7 (-3.9 versus -3.4, respectively, P = 0.029). http://www.ncbi.nlm.nih.gov/pubmed/16421462
+
+A statistically significant difference (p < 0.05) between the MADRS total
+      score responses of escitalopram and placebo treatments was observed at
+      week 1. All 10 MADRS single items showed a significant treatment effect
+      at week 8. For items representing core symptoms of depression (apparent
+      sadness, reported sadness, inner tension, concentration difficulties,
+      inability to feel, pessimistic thoughts and suicidal thoughts) the
+      effect was detected early (week 1) and for other items (reduced sleep,
+      reduced appetite and lassitude) the effect was detected later (week
+      6-8). Of the patients who showed an onset of effect (> or = 20%
+      reduction in MADRS) after 2 weeks, and who remained on escitalopram
+      until week 8, 63% were in remission at week 8 (mean MADRS score of
+      6.1).", "figure": "" } },
+  
+
+
+  {
+    "participant" : "Cunha",
+    "time_stamp" : {
+      "date" : "2014-08-04",
+      "time" : "8:46:09 PM EDT"
+    },
+    "problem" : {
+       "transcription" : "dentre todos os dados de diagnóstico diferencial de carcinoma de sigmóide e diverticulite de sigmóide, qual o mais importante?",
+       "clarification" : "did not understand the meaning of important. more prevalente? worse prognosis?"
+     },
+
+    "classification" : {
+      "soft_skills" : "",
+      "treatment": "",
+      "diagnosis" : ""
+    },
+    "response" : {
+      "source" : "web",
+      "link" : "http://emedicine.medscape.com/article/774045-differential",
+      "full_text" : "as frequências dependem de varios fatores (idade, pos operatorio, etc), mas a lista é:
+
+Abdominal Hernias
+Abdominal Pain in Elderly Persons
+Appendicitis
+Chronic Megacolon
+Colonic Polyps
+Diverticulitis
+Diverticulitis Empiric Therapy
+Pseudomembranous Colitis
+Small-Bowel Obstruction
+Toxic Megacolon
+",
+      "figure" : ""
+    }
   }
-]
+
+
+       ]
+
+
+---
+
+Cunha
+2014-07-31 
+3:44:49 PM EDT
+"qual a complicação mais frequente em pacientes com infarto agudo do miocardio"
+"Following fibrinolytic therapy, reocclusion of the infarct-related artery (IRA) occurs in approximately 5% to 10% of patients by the time of discharge, and in 25% to 30% of patients at 1 year"
+
+---
+
+Cunha
+2014-07-31 
+4:06:11 PM EDT
+"paciente com esclerodermia e hipertensao arterial sistêmica sinais de comprometimento da função renal. qual é o antihipertensivo mais indicado para ele
+"
+"Involvement of the kidneys occurs almost exclusively in patients with diffuse scleroderma and is exceedingly rare in limited scleroderma.
+
+The onset of renal involvement in diffuse scleroderma typically occurs in the first 1-2 years during the time when skin involvement is progressively worsening. It is more likely to occur during cold weather months."
+
+"Timing is everything in scleroderma renal crisis. The best approach is to recognize it early by close and frequent monitoring of blood pressure. Patients at high risk - early diffuse scleroderma - should check their blood pressure frequently. Use of a home blood pressure monitoring device is time and cost effective.
+
+Once high blood pressure is recognized, it should be treated promptly and aggressively. One class of antihypertensive medications known as angiotensin converting enzyme inhibitors (ACE inhibitors) (examples – enalapril, captopril, lisinopril) are uniquely effective, although many patients require more than one drug. If the blood pressure can be promptly and completely controlled, kidney injury can be prevented and over time can reverse.
+
+The ACE inhibitors have revolutionized outcomes in scleroderma renal crisis. In the 1970’s, this was universally and rapidly fatal. In 2006, it is frequently managed on an outpatient basis and 60-70% of patients can be treated successfully without sustaining kidney injury."
+
+"http://www.med.umich.edu/scleroderma/patients/renal.htm"
+
+
+---
+
+Cunha
+2014-07-31 11:06:02 PM EDT
+"paciente chocado, em que as manipulações farmacológicas e de alterações de pré carga e pós carga e da contratilidade nao exibem melhora da função cardíaca, qual é o melhor procedimento a ser considerado depois disso"
+
+"Clarificação: qual a causa do choque? se for cardiogênico é PCI imediato ou transferencia pra um lugar que tenha capacidade pra fazer PCI (veja abaixo). se for hipovolêmico é contenção cirúrgica do sangramento (veja abaixo)"
+
+"http://content.onlinejacc.org/article.aspx?articleid=1486115" - figure 2
+
+"http://www.itim.nsw.gov.au/images/a/a6/Hypovolaemic_shock_CPG_full_report.pdf" - algorithm 1
+
+---
+
+Cunha
+2014-07-31 11:25:41 PM EDT
+ "paciente com calcio total de 17, normal com 10, hipercalcemia, não apresenta sinais e sintomas. calcio total ou calcio ionico está associado a estes sintomas e sinais"
+
+ Because the proportion of bound calcium varies little within individuals, in the absence of severe acidosis or alkalosis, the amount of albumin is the major factor determining the amount of calcium that is bound. uma alteração plasmatica associada a uma mensuração de hipercalcemia (bound calcium) é hiperalbuminemia, que geralmente está associada a desidratação. hipalbuminemia (mais frequente) está associada a hipocalcemia: For every 1-g/dL drop in serum albumin below 4 g/dL, measured serum calcium decreases by 0.8 mg/dL. Therefore, to correct for an albumin level of less than 4 g/dL, one should add 0.8 to the measured value of calcium for each 1-g/dL decrease in albumin. Without this correction, an abnormally high serum calcium level may appear to be normal. A normal serum calcium level is 8-10 mg/dL (2-2.5 mmol/L) with some interlaboratory variation in the reference range, and hypercalcemia is defined as a serum calcium level greater than 10.5 mg/dL (>2.5 mmol/L). Hypercalcemia may be classified based on total serum and ionized calcium levels, as follows: Mild: Total Ca 10.5-11.9 mg/dL (2.5-3 mmol/L) or Ionized Ca 5.6-8 mg/dL (1.4-2 mmol/L) - frequentemente assintomatica Moderate: Total Ca 12-13.9 mg/dL (3-3.5 mmol/L) or Ionized Ca 5.6-8 mg/dL (2-2.5 mmol/L) Hypercalcemic crisis: Total Ca 14-16 mg/dL (3.5-4 mmol/L) or Ionized Ca 10-12 mg/dL (2.5-3 mmol/L)
+
+ ---
+
+Isaac
+2014-08-01 5:14:57 PM EDT
+"correção do valor sérico do cálcio baseado na albumina"
+Corrected Calcium = (0.8 * (Normal Albumin - Pt's Albumin)) + Serum Ca
+app: http://www.mdcalc.com/calcium-correction-for-hypoalbuminemia/
+
+
+
+  
+  
+  {
+    "participant" : "Isaac",
+    "time_stamp" : {
+      "date" : "2014-08-05",
+      "time" : "8:15:21 AM EDT"
+    },
+    "problem" : {
+       "transcription" : "tempo de uso de acetil cisteína na prevenção da nefropatia por contraste",
+       "clarification" : ""
+     },
+
+    "classification" : {
+      "soft_skills" : "",
+      "treatment": "guideline",
+      "diagnosis" : ""
+    },
+    "response" : {
+      "source" : "guideline",
+      "link" : "http://goo.gl/eEbRJ3",
+      "full_text" : "N-acetylcysteine administration- OPTIONAL.
+
+3.3.1  Though level A evidence is lacking and results from clinical trails are conflicting, practitioners may wish to administer n-acetylcysteine prior to emergent radiologic procedures that require contrast in at-risk individuals as defined.
+
+3.3.2  N-acetylcysteine 800 mg, 2 doses ORALLY at 1600 and 2000 the day before contrast administration. Mix with 30 mL cola to disguise the taste. In emergency procedures, 2 doses orally may be given 4-6 hours apart prior to contrast.
+
+N-acetylcysteine administration
+4.2.1 All patients who received n-acetylcysteine pre-contrast administration should have an additional two- 800 mg doses ORALLY six hours apart following administration of contrast as directed above. ",
+      "figure" : ""
+    }
+  }
+
+
+    {
+    "participant" : "Cunha",
+    "time_stamp" : {
+      "date" : "2014-08-05",
+      "time" : "3:13:44 PM EDT"
+    },
+    "problem" : {
+       "transcription" : "gostaria de saber a conduta na trombose hemorroidária",
+       "clarification" : ""
+     },
+
+    "classification" : {
+      "soft_skills" : "",
+      "treatment": "guideline",
+      "diagnosis" : ""
+    },
+    "response" : {
+      "source" : "",
+      "link" : "http://www.guideline.gov/expert/expert-commentary.aspx?id=37828",
+      "full_text" : "",
+      "figure" : ""
+    }
+  }
+
+    {
+    "participant" : "Isaac",
+    "time_stamp" : {
+      "date" : "2014-08-07",
+      "time" : "8:11:17 PM EDT"
+    },
+    "problem" : {
+       "transcription" : "critérios diagnósticos na síndrome poliglandular auto-imune",
+       "clarification" : ""
+     },
+
+    "classification" : {
+      "soft_skills" : "",
+      "treatment": "",
+      "diagnosis" : ""
+    },
+    "response" : {
+      "source" : "",
+      "link" : "http://autoimmune.pathology.jhmi.edu/diseases.cfm?systemID=3&DiseaseID=66",
+      "full_text" : " The clinical diagnosis of PAS-1 is based on the presence of at least two out of the three following diagnostic criteria:
+chronic mucocutaneous candidiasis,
+chronic hypoparathyroidism, and 
+autoimmune adrenal insufficiency
+Diagnosis criteria for polyglandular autoimmune syndrome type 2 (PAS-2) are autoimmune adrenocortical insufficiency with autoimmune thyroiditis and/or type I diabetes mellitus. 
+
+In PAS-3, autoimmune thyroiditis occurs with another organ-specific autoimmune disease, but not with autoimmune adrenalitis. Other autoimmune diseases can include diabetes mellitus, pernicious anemia, vitiligo, alopecia, myasthenia gravis, and Sjögren’s syndrome. ",
+      "figure" : ""
+    }
+  }
+
+
+    {
+    "participant" : "Isaac",
+    "time_stamp" : {
+      "date" : "2014-08-07",
+      "time" : "8:21:27 PM EDT"
+    },
+    "problem" : {
+       "transcription" : "uso do bicarbonato na prevenção da nefropatia",
+       "clarification" : ""
+     },
+
+    "classification" : {
+      "soft_skills" : "",
+      "treatment": "",
+      "diagnosis" : ""
+    },
+    "response" : {
+      "source" : "",
+      "link" : "",
+      "full_text" : "",
+      "figure" : ""
+    }
+  }
+
+  aalpe

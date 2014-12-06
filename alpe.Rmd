@@ -43,15 +43,20 @@ The objective of this study is therefore to describe an implementation of the Ag
 ## Methods
 
 
-|Trial design|Planned number and duration of each period, run-in and wash out with rationale, series of N- of-1 trials|
+### Trial design
+
+* N-of-1
+* Intervention on Mondays, Wed and Fridays
+* washout on Tuesdays, Thursdays and over the weekend
+* No run-in necessary as participants were not recording their information needs in any form up to the start of the trial
 
 
-|Ethics|IRB approval, including details on informed consent or why it was waived|
+### Ethics
+
+* IRB approval, informed consent signed prior to the start of the trial
 
 
 ### Participants
-
-
 
 * Two physicians, neurologist and general clinician, seeing patients in their daily practice. rounds, emergency room
 * recruited through direct contact
@@ -64,24 +69,23 @@ The objective of this study is therefore to describe an implementation of the Ag
 ### Intervention
 
 
-#### Daily diary arm
+#### Daily diary arm 
 
 * traditional method
-* write down questions at the end of the day
-* send them by email
+* write down clinical questions that occurred during the day and where the participant felt the need to seek further information
+* send them by email back to study coordination at the end of the day
 
 
 #### Inbound arm
 
 
-* [NetMemo Plus Voice Recorder](https://play.google.com/store/apps/details?id=com.netify.netmemopro&hl=en)
+* [NetMemo Plus Voice Recorder](https://play.google.com/store/apps/details?id=com.netify.netmemopro&hl=en) or {{add iOS apps}}
     * recorded at the time the need arose
-* Brief outline at night
-    * listen to notes taken during the day
-    * forward to analyst (RP) along with any additional notes regarding insights, additional comments, or anything that could bring additional depth to the voice recorded note
-* transcript analysis using [RQDA](http://rqda.r-forge.r-project.org/) 
-<!-- https://www.youtube.com/playlist?list=PL66CB2FF65368715C&feature=plcp -->
-* nightly reporting with Rmd file 
+    * automatically submitted to study coordination through email
+    * voice transcribed
+    * questions answered using information available from the web
+* transcript analysis using [RQDA](http://rqda.r-forge.r-project.org/) <!-- https://www.youtube.com/playlist?list=PL66CB2FF65368715C&feature=plcp -->
+
 
 <!-- * feedback reporting tool
     * [Django](https://www.djangoproject.com/) framework
@@ -90,29 +94,44 @@ The objective of this study is therefore to describe an implementation of the Ag
  -->
 
 
-### 
-
 #### Outcomes
 
-<!-- |Primary and secondary, including factors such as information absorption, ability to solve problems, User eXperience (UX) and ability to put information to real-world practice| -->
+* Number of information need events per day
+* Emerging themes
+	* transcription of information need in either voice recording or daily diary
+	* tagging using RQDA in search of emerging themes
+* Satisfaction with method scale at the end of each day
+	* on a scale from 0 to 10, where 0 means not at all and 10 is absolutely, how satisfied are you with the method you are using to record your clinical information needs and obtain a response for them
+* Change in practice
+	* on a scale from 0 to 10, where 0 means not at all and 10 is absolutely, how much has your clinical practice changed as a result of this information needs gathering and corresponding responses today
+* Knowledge perception in relation to daily topics 
+	* on a scale from 0 to 10, where 0 means not at all and 10 is absolutely, how much has your knowledge about daily clinical facts changed as a function of the method you used to obtain responses today
+
 
 ### Sample size
+
+
+<!-- might use a bayesian analysis, let's see -->
 
 * Reproducible through scripts and links to preliminary data or relevant publications
 
 
+
 ### Stopping rules
-Set upfront or decided during the trial
+
+Since this was an educational trial, the only stopping rule established for this trial was related to a possible privacy breach in relation to its data.
 
 
 ### Randomization
 
-* Sequence generation
-* allocation concealment
-* blinding
+* Sequence generation delivered through email and SMS (WhatsApp and WeChat) in the morning of every Monday, Tuesday and Friday
+* allocation concealment not possible
+* blinding not possible
 
 
 ### Data analysis
+
+* check crossdes
 * Fully reproducible with corresponding scripts, assumption checking (carry-over effect, period effects, intra-subject correlation), efficacy evaluation, synthesis methods if more than one N-of-1 is being used (how heterogeneity between participants was assessed, [PRISMA guidelines](http://www.prisma-statement.org/))
 
 
@@ -131,6 +150,12 @@ Set upfront or decided during the trial
 
 
 ## Results
+
+cunha 3546, isaac 76534
+
+set.seed(); sample(c("daily_diary","inbound"), 30, replace = TRUE)
+
+
 
 RQDA tables and graphics
 
